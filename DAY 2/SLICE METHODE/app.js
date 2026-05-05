@@ -6,7 +6,7 @@ console.log(str);
 let first= name.slice(1,4); // from 0 to n+1 !
 
 
-let clg = "ApnaCollage";
+let clg = " ApnaCollage";
 
 let second = clg.slice(4,11);
 console.log(second);
